@@ -1,4 +1,4 @@
-# co469498cb933d227b79b5b29
+# DODGY DERRIL'S STOCK PREDICTOR
 
 Quick start:
 
